@@ -1,1 +1,20 @@
 @import 'tailwindcss';
+
+@theme {
+  --color-custom-neutral-900: hsl(243, 96%, 9%);
+  --color-custom-neutral-800: hsl(243, 27%, 20%);
+  --color-custom-neutral-700: hsl(243, 23%, 24%);
+  --color-custom-neutral-600: hsl(243, 23%, 30%);
+  --color-custom-neutral-300: hsl(240, 6%, 70%);
+  --color-custom-neutral-200: hsl(250, 6%, 84%);
+  --color-custom-neutral-0: hsl(0, 0%, 100%);
+  --color-custom-orange-500: hsl(28, 100%, 52%);
+  --color-custom-blue-500: hsl(233, 67%, 56%);
+  --color-custom-blue-700: hsl(0, 0%, 100%);
+  --font-DM-Sans-300: url(assets/Fonts/DM_Sans/static/DMSans-Light.ttf);
+  --font-DM-Sans-500: url(assets/Fonts/DM_Sans/static/DMSans-Medium.ttf);
+  --font-DM-Sans-600: url(assets/Fonts/DM_Sans/static/DMSans-SemiBold.ttf);
+  --font-DM-Sans-600i: url(assets/Fonts/DM_Sans/static/DMSans-SemiBoldItalic.ttf);
+  --font-DM-Sans-700: url(assets/Fonts/DM_Sans/static/DMSans-Bold.ttf);
+  --font-Bricolage-Grotesque-700: url(assets/Fonts/Bricolage_Grotesque/static/BricolageGrotesque-Bold.ttf);
+}
